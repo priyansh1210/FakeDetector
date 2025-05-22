@@ -1,3 +1,4 @@
+
 # Fake News Detector
 
 An AI project for detecting fake news articles using Python and TensorFlow.
@@ -19,3 +20,7 @@ This project implements a text-based machine learning model to identify potentia
 - TensorFlow 2.x
 - scikit-learn
 - pandas, numpy, matplotlib
+
+# FakeDetector
+AI project for detecting fake news  using Python and TensorFlow
+ 5f22af3c20f998279ec50069000cb384f0cbd558
