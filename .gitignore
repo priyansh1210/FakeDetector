@@ -6,3 +6,16 @@ models/*/best_model/
 models/*/final_model/
 __pycache__/
 *.pyc
+# Large data files
+data/news_data/*.csv
+
+# Model files
+*.h5
+models/*/best_model/
+models/*/final_model/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
