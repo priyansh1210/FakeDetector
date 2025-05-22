@@ -24,3 +24,12 @@ This project implements a text-based machine learning model to identify potentia
 # FakeDetector
 AI project for detecting fake news  using Python and TensorFlow
  5f22af3c20f998279ec50069000cb384f0cbd558
+
+## Dataset
+
+Due to size limitations, the dataset is not included in this repository. To use this project:
+
+1. Download the "Fake and Real News Dataset" from Kaggle: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+2. Extract the dataset files to `data/news_data/`
+3. Run the preprocessing script to prepare the dataset:
+
